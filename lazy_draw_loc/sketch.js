@@ -2,7 +2,7 @@ var x = 1; //current mouse x position
 var y = 1; //current mouse y position
 var px = 1; //current mouse x position
 var py = 1; //current mouse y position
-var ease = 0.05;
+var ease = 0.03;
 var radius = 20;
 
 function setup() {
